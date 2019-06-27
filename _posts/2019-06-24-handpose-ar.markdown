@@ -2,7 +2,7 @@
 layout: post
 title:  "OpenCVforUnity HandposeEstimation AR"
 date:   2019-06-24 21:01:24 +0200
-categories: jekyll update
+categories: openCVforUnity
 ---
 
 This demo is a combination of the Advanced/HandposeEstimation example & the MarkerBasedAR example.

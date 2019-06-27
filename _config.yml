@@ -23,7 +23,7 @@ url: "https://violetforest.com/" # the base hostname & protocol for your site, e
 twitter_username: violet_forest
 github_username:  violetforest
 instagram_username: violetforest.js
-permalink: /:title:output_ext
+permalink: pretty
 
 # Build settings
 markdown: kramdown

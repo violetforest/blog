@@ -15,14 +15,14 @@ After pondering about how what I had taken from her with my phone's camera, I re
 
 I had just given her face to Google without her consent, and I knew Google was going to run a face recognition algorithm on the photograph. According to Google's website, its not only the face that is scanned, its also the clothing that is analyzed, in its "Face Grouping" feature:
 
-"We detect whether any photo has a face in it.
+>"We detect whether any photo has a face in it.
 If the face grouping feature is turned on, algorithmic models are used to predict the similarity of different images and estimate whether 2 images represent the same face.
 Photos that are likely to represent the same face are grouped together...
 When face grouping is on, Google Photos may also include photos in a particular group based on other characteristics. This includes photos being taken close together in time and detecting that a person is wearing the same clothing across photos when a face is not visible." -[source](https://support.google.com/photos/answer/6128838?hl=en)
 
 So although others users can't access these face groupings, the photograph is exposed to not just humans, but also computer vision. On top of that, it is stored in Google's memory:
 
-"We also collect the content you create, upload, or receive from others when using our services. This includes things like email you write and receive, photos and videos you save, docs and spreadsheets you create, and comments you make on YouTube videos." -[source](https://policies.google.com/privacy?hl=en-US)
+>"We also collect the content you create, upload, or receive from others when using our services. This includes things like email you write and receive, photos and videos you save, docs and spreadsheets you create, and comments you make on YouTube videos." -[source](https://policies.google.com/privacy?hl=en-US)
 
 The time, date, and GPS coordinates of the photograph were also uploaded with the photograph in the EXIF data. Although this data is reportedly delete when uploading to social media platforms, it is not deleted when sharing to your own website, like a blog.
 

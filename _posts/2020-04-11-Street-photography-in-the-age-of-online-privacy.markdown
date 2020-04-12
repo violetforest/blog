@@ -5,20 +5,20 @@ categories: photography, privacy, computer vision
 ---
 ![Google Photos face recognition](/blog/assets/2.jpg)
 
-In the times of quarantine, I found the need to go for a long walk. During that time, I also had a the urge to take photographs of people on the streets, enjoying whatever sunshine they could get after 1 month of lockdown. It's not every day that a pandemic happens, and I wanted to photograph it.
+In the times of COVID-19 quarantine, I found the need to go for a long walk. During that time, I also had the urge to take photographs of people on the streets, enjoying whatever sunshine they could get after 1 month of lockdown. It's not every day that a pandemic happens, and I wanted to photograph it.
 
 My phone's back-facing camera's lens is broken, so I shoot with the front-facing camera, which takes my stealth and framing-control down a couple of levels. After clumsily taking photographs of people on the street, I passed by a young couple sitting, awkwardly snapped their photo, and kept walking. I had a feeling the woman saw me, and sure enough, I heard her chasing behind me. Stunned yet defensive, I kept walking, acting stupid. I obviously knew what she wanted. She caught up to me, while another stranger tried to intervene, and kept yelling "Why did you take my photo?!".
 
 She had asked me to delete it, but I knew I had a right to take her photograph in public. Street photographers and documentary photographs have different ways of dealing with the issue of invasion of privacy. Some photographers choose an aggressive style of shooting, keeping a "Shoot first, apologize later" attitude. There's always a balance between the law, morale and your artistic ego, and in between all of that, is a stranger's right to privacy. As I walked home, I couldn't decide: Should I delete the photo or not?
 
-After pondering about how what I had taken from her with my phone's camera, I realized something that complicated the matter even more: the image I just took was most likely already automatically uploaded to my Google Photos. And I realized that with today's technology, taking a digital photograph doesn't just steal someone's image, it can also steal their digital privacy.
+After pondering about what I had taken from her with my phone's camera, I realized something that complicated the matter even more: the image I just took was most likely already automatically uploaded to my Google Photos. And I realized that with today's technology, taking a digital photograph doesn't just steal someone's image, it can also steal their digital privacy.
 
 I had just given her face to Google without her consent, and I knew Google was going to run a face recognition algorithm on the photograph. According to Google's website, its not only the face that is scanned, its also the clothing that is analyzed, in its "Face Grouping" feature:
 
 >"We detect whether any photo has a face in it.
 If the face grouping feature is turned on, algorithmic models are used to predict the similarity of different images and estimate whether 2 images represent the same face.
 Photos that are likely to represent the same face are grouped together...
-When face grouping is on, Google Photos may also include photos in a particular group based on other characteristics. This includes photos being taken close together in time and detecting that a person is wearing the same clothing across photos when a face is not visible." -[source](https://support.google.com/photos/answer/6128838?hl=en)
+Google Photos may also include photos in a particular group based on other characteristics. This includes photos being taken close together in time and detecting that a person is wearing the same clothing across photos when a face is not visible." -[source](https://support.google.com/photos/answer/6128838#learn_face_models)
 
 So although others users can't access these face groupings, the photograph is exposed to not just humans, but also computer vision. On top of that, it is stored in Google's memory:
 

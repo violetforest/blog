@@ -3,7 +3,7 @@ layout: post
 title:  "Street Photography in the Age of Online Privacy"
 categories: photography, privacy, computer vision
 ---
-![Google Photos face recognition](/assets/images/2.jpg)
+![Google Photos face recognition](./assets/images/2.jpg)
 
 In the times of quarantine, I found the need to go for a long walk. During that time, I also had a the urge to take photographs of people on the streets, enjoying whatever sunshine they could get after 1 month of lockdown. It's not every day that a pandemic happens, and I wanted to photograph it.
 
@@ -22,11 +22,11 @@ When face grouping is on, Google Photos may also include photos in a particular 
 
 So although others users can't access these face groupings, the photograph is exposed to not just humans, but also computer vision. On top of that, it is stored in Google's memory:
 
-"We also collect the content you create, upload, or receive from others when using our services. This includes things like email you write and receive, photos and videos you save, docs and spreadsheets you create, and comments you make on YouTube videos." -[source](https://policies.google.com/privacy?hl=en-US
+"We also collect the content you create, upload, or receive from others when using our services. This includes things like email you write and receive, photos and videos you save, docs and spreadsheets you create, and comments you make on YouTube videos." -[source](https://policies.google.com/privacy?hl=en-US)
 
 The time, date, and GPS coordinates of the photograph were also uploaded with the photograph in the EXIF data. Although this data is reportedly delete when uploading to social media platforms, it is not deleted when sharing to your own website, like a blog.
 
-![Google Photos shows EXIF data](/assets/images/1.jpg)
+![Google Photos shows EXIF data](./assets/images/1.jpg)
 
  Even more, if I publish this photograph on my website, and it is indexed by Google's or a social media platform, there is a chance it could be scraped and added to a databases like that of Clearview AI's, where it could be used to create a profile of this person, and this profile dataset could be searched by anyone with access to the database.
 

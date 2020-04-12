@@ -3,7 +3,7 @@ layout: post
 title:  "Street Photography in the Age of Online Privacy"
 categories: photography, privacy, computer vision
 ---
-![Google Photos shows EXIF data](/assets/images/2.jpg)
+![Google Photos face recognition](/assets/images/2.jpg)
 
 In the times of quarantine, I found the need to go for a long walk. During that time, I also had a the urge to take photographs of people on the streets, enjoying whatever sunshine they could get after 1 month of lockdown. It's not every day that a pandemic happens, and I wanted to photograph it.
 
@@ -18,11 +18,11 @@ I had just given her face to Google without her consent, and I knew Google was g
 "We detect whether any photo has a face in it.
 If the face grouping feature is turned on, algorithmic models are used to predict the similarity of different images and estimate whether 2 images represent the same face.
 Photos that are likely to represent the same face are grouped together...
-When face grouping is on, Google Photos may also include photos in a particular group based on other characteristics. This includes photos being taken close together in time and detecting that a person is wearing the same clothing across photos when a face is not visible." -https://support.google.com/photos/answer/6128838?hl=en
+When face grouping is on, Google Photos may also include photos in a particular group based on other characteristics. This includes photos being taken close together in time and detecting that a person is wearing the same clothing across photos when a face is not visible." -[source](https://support.google.com/photos/answer/6128838?hl=en)
 
 So although others users can't access these face groupings, the photograph is exposed to not just humans, but also computer vision. On top of that, it is stored in Google's memory:
 
-"We also collect the content you create, upload, or receive from others when using our services. This includes things like email you write and receive, photos and videos you save, docs and spreadsheets you create, and comments you make on YouTube videos." -https://policies.google.com/privacy?hl=en-US
+"We also collect the content you create, upload, or receive from others when using our services. This includes things like email you write and receive, photos and videos you save, docs and spreadsheets you create, and comments you make on YouTube videos." -[source](https://policies.google.com/privacy?hl=en-US
 
 The time, date, and GPS coordinates of the photograph were also uploaded with the photograph in the EXIF data. Although this data is reportedly delete when uploading to social media platforms, it is not deleted when sharing to your own website, like a blog.
 

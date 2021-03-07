@@ -6,7 +6,7 @@ categories: cryptocurrency, bitcoin, nano, Venezuela
 
 ### ¿Sin darme demasiada información sobre tu identidad, me puedes contar un poquito sobre a qué te dedicas?
 
-Me dedico a la ingeniería y que esto no te asuste. Afortunadamente acá en Venezuela desde hace muchos años la educación es gratuita y de calidad, sin embargo como en un país en crisis el tener una carrera no te garantiza un nivel de vida adecuado, según el Colegio de Ingenieros(CIV) un sueldo inicial para un ingeniero es de unos 240 dólares [http://www.civ.net.ve/uploaded_pictures/70_d.pdf](http://www.civ.net.ve/uploaded_pictures/70_d.pdf) y eso es solo una sugerencia el CIV no tiene capacidad de establecer un sueldo mínimo para ingenieros “obligatorio”, pocas empresas lo cumple, creo que el sueldo está en promedio entre 100 y 200 USD. Es decir, según el CIV 240 USD pero según [http://cenda.org.ve/](http://cenda.org.ve/) (CENDA) se necesita como 350 USD mensuales para “vivir” sin lujos.
+Me dedico a la ingeniería y que esto no te asuste. Afortunadamente acá en Venezuela desde hace muchos años la educación es gratuita y de calidad, sin embargo como en un país en crisis el tener una carrera no te garantiza un nivel de vida adecuado, según el Colegio de Ingenieros(CIV) un sueldo inicial para un ingeniero es de unos 240 dólares [http://www.civ.net.ve/uploaded_pictures/70_d.pdf](http://www.civ.net.ve/uploaded_pictures/70_d.pdf){:target="_blank"} y eso es solo una sugerencia el CIV no tiene capacidad de establecer un sueldo mínimo para ingenieros “obligatorio”, pocas empresas lo cumple, creo que el sueldo está en promedio entre 100 y 200 USD. Es decir, según el CIV 240 USD pero según [http://cenda.org.ve/](http://cenda.org.ve/){:target="_blank"} (CENDA) se necesita como 350 USD mensuales para “vivir” sin lujos.
  
 Un ejemplo del éxito y calidad de la educación gratuita en Venezuela es Rafael Reif, graduado de Ingeniero en Venezuela y actual Provost del MIT.
  
@@ -24,18 +24,18 @@ Aquí en Venezuela como en el 2018 el gobierno cambio su discurso sobre las crip
  
 Alguien asesoro al gobierno, explicándole que más bien con una cripto podía saltar cualquier sanción internacional y otras ventajas. A partir de allí cambiaron su discurso y todo era amor con las criptos, sin embargo era contrario a las políticas que ellos le gustan (controlar todo), tuvieron una especie de cortocircuito ideológico.
  
-[https://www.nytimes.com/2020/03/20/technology/venezuela-petro-cryptocurrency.html](https://www.nytimes.com/2020/03/20/technology/venezuela-petro-cryptocurrency.html)
+[https://www.nytimes.com/2020/03/20/technology/venezuela-petro-cryptocurrency.html](https://www.nytimes.com/2020/03/20/technology/venezuela-petro-cryptocurrency.html){:target="_blank"}
  
 Esto lo comento porque en general el conocimiento de las criptos en Venezuela es más alto que en los demás países porque el gobierno usa todo su aparato comunicacional para promocionar el Petro.
  
 El Petro fue un fracaso, incluso la versión 1 fue una estafa. Básicamente lo usan para no decir 60 USD, dicen 1 petro. Si algo vale 120 USD dicen 2 petros  y ya. Ellos insisten que el valor debe ser 60 USD pero en los exchanges “libres” que hay en Venezuela se hace trading por 15-20 USD. El mismo gobierno se enredó.
  
 [https://beincrypto.com/venezuelan-government-insists-petro-is-worth-60-despite-free-markets-trading-it-at-less-than-8/](https://beincrypto.com/venezuelan-government-insists-petro-is-worth-60-despite-free-markets-trading-it-at-less-than-8/
-)
+){:target="_blank"}
  
-[https://coingeek.com/venezuelans-dont-want-the-petro-crypto/](https://coingeek.com/venezuelans-dont-want-the-petro-crypto/)
+[https://coingeek.com/venezuelans-dont-want-the-petro-crypto/](https://coingeek.com/venezuelans-dont-want-the-petro-crypto/){:target="_blank"}
  
-Estafa Petro V1 [https://bitcointalk.org/index.php?topic=3006037.540](https://bitcointalk.org/index.php?topic=3006037.540)
+Estafa Petro V1 [https://bitcointalk.org/index.php?topic=3006037.540](https://bitcointalk.org/index.php?topic=3006037.540){:target="_blank"}
  
 ### ¿Por qué/Para que usas las criptomonedas? Cómo te ayudan?
  
@@ -70,9 +70,9 @@ Honestamente poco, particularmente uso las criptos mas como medio de almacenamie
  
 Puedes ir a Traki (Una tienda por departamento) y comprar comida, roja, electrodomésticos pagando con criptos creo que en ningún otro país existe el marco legal que permita hacer eso.
  
-[https://es.beincrypto.com/aprende/opciones-comprar-alimentos-venezuela-usando-criptomonedas/](https://es.beincrypto.com/aprende/opciones-comprar-alimentos-venezuela-usando-criptomonedas/)
+[https://es.beincrypto.com/aprende/opciones-comprar-alimentos-venezuela-usando-criptomonedas/](https://es.beincrypto.com/aprende/opciones-comprar-alimentos-venezuela-usando-criptomonedas/){:target="_blank"}
  
-[https://np.reddit.com/r/CryptoCurrency/comments/julws9/this_is_a_cashier_in_traki_the_biggest/](https://np.reddit.com/r/CryptoCurrency/comments/julws9/this_is_a_cashier_in_traki_the_biggest/)
+[https://np.reddit.com/r/CryptoCurrency/comments/julws9/this_is_a_cashier_in_traki_the_biggest/](https://np.reddit.com/r/CryptoCurrency/comments/julws9/this_is_a_cashier_in_traki_the_biggest/){:target="_blank"}
  
 Tengo pendiente (cuando tenga dinero) hacer una compra en Traki de algo que necesite y pagar con criptos, lo documentare el proceso para darlo a conocer.
  

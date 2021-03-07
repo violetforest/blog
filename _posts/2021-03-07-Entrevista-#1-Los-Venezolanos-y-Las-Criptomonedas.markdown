@@ -60,7 +60,7 @@ He conocido mucha gente en Reddit que me ha ofrecido trabajo, tareas, consultas 
  
 Es una pregunta difícil, me gusta mucho Nano, es rápida, sin comisiones y lo de WeNano es muy bonito, un grupo de gente de otros países poniendo puntos de Venezuela para ayudar a un Venezolano y además sirve de promoción de las criptomonedas? Excelente idea, ganar-ganar.
  
-### ¿Qué opinas de Nano? Crees que Nano puede se adoptado ampliamente por la población?
+### ¿Qué opinas de Nano? Crees que Nano puede ser adoptado ampliamente por la población?
  
 Bueno, arriba ya mencione a Nano sin haber leído esta pregunta, creo que la respuesta es obvia. Me gusta y ojala Venezuela se convierta en un ejemplo para Nano y para el mundo de las criptos a nivel mundial. La velocidad y el hecho de no tener comisiones, en un país donde hasta unos centavos hacen la diferencia son demasiado bueno.
  
